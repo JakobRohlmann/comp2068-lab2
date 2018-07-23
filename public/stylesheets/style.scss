@@ -1,0 +1,19 @@
+$background:#ffffcc;
+
+body {
+  background-color: $background;
+
+	font-size: 100%;
+  font-family: "Arial", Helvetica, sans-serif;
+}
+#container {
+	background: #ccc;
+	width: 80%;
+	margin: 0 auto;
+	padding: 2.5%;
+}
+header, section, footer {
+	background: #fff;
+	padding: 2.5%;
+	margin-bottom: 1em;
+}
